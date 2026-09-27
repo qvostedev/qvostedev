@@ -7,7 +7,7 @@
 
 ### I'm Voste.
 
-**Full-Stack Software Developer**
+Full-Stack Software Developer
 
 I build **complete software systems** — from user interfaces and client apps  
 to backend services, APIs, databases and deployment.
